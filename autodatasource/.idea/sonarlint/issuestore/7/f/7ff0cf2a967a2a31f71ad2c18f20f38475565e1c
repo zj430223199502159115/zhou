@@ -1,0 +1,15 @@
+
+msquid:UselessImportCheck"FRemove this unused import 'org.springframework.stereotype.Controller'.(øŠ—Öùÿÿÿÿ
+bsquid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(÷±ùıÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+bsquid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(öÎ ”üÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+bsquid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ç—ÏÅúÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+]squid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¼ÄĞŸ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+]squid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Û†¾£

@@ -1,0 +1,4 @@
+
+usquid:UselessImportCheck	"JRemove this unused import 'org.springframework.context.annotation.Import'.(ˆÈè8Îÿ˜¯õ-
+squid:UselessImportCheck"dRemove this unused import 'org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration'.(¦–·Ë8Îÿ˜¯õ-
+ˆsquid:UselessImportCheck"XRemove this unused import 'org.springframework.cloud.netflix.eureka.EnableEurekaClient'.(´÷ÎÉüÿÿÿÿ8Îÿ˜¯õ-
